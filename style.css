@@ -1,0 +1,84 @@
+body {
+  align-content:center ;
+}
+header {
+margin: 20px 500px;
+}
+header img {
+
+float: left;
+vertical-align: unset;
+}
+ p {
+  vertical-align: top;
+  text-align: top;
+  margin-top: 50px;
+  margin-left: 69px;
+  display: inline-block;
+  font-size: 16pt;
+}
+main {
+  margin: 0px 500px;
+
+  
+}
+#hero {
+margin-top: 20px;
+margin-bottom: 20px;
+
+}
+#middle {
+  margin: 0 25px;
+}
+section {
+  margin-bottom: 20px;
+  margin-top: 20px;
+  
+}
+#aboveFooter {
+  display: inline-block;
+  text-align: center;
+  vertical-align: top;
+  text-align: start;
+
+  margin-top: -225px;
+}
+
+#aboveFooter p {
+  /* text-align: start; */
+  margin-top: -0px;
+  height: 160px;
+  font-size: 20px;
+  font-style: italic;
+  overflow-y: scroll;
+margin-left:  500px;
+margin-right:228px ;
+display: inline-block;
+}
+#aboveFooter h4 {
+/* text-align: start; */
+
+  font-size: 16pt;
+  margin-left: 500px;
+  margin-right: 100px;
+}
+ button {
+  display: inline-block;
+  margin-left:500px;
+  border-radius: 5px;
+  background-color: white;
+  color: black;
+  font-size: 15px;
+  height: 40px;
+  width: 25%;
+  outline: none;
+  transition: 350ms; 
+ 
+}
+button:hover {
+  background-color: black;
+  color: white;
+}
+footer {
+  margin: 20px 500px;
+}
